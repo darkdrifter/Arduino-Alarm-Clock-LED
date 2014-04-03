@@ -1,5 +1,5 @@
 // LCD : UART     Switcher : D2   Button : D3/D4   Clock : I2C
-// Speacker : D8
+// Speaker : D8
 
 #include <SoftwareSerial.h>
 #include <SerialLCD.h>
